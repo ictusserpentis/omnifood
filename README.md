@@ -1,5 +1,5 @@
 # OMNIFOOD
-Сайт, посвящённый здоровой еде.
+Сайт, посвящённый здоровому питанию.
 Курсовой проект из "Build Responsive Real-World Websites with HTML and CSS" by Jonas Schmedtmann.
 
 Website dedicated to healthy food.
